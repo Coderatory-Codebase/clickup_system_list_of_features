@@ -1,6 +1,6 @@
 # Domain 8: Docs & Knowledge Management
 
-Documentation aur knowledge store karne ka domain — jaise Google Docs jaisa built-in editor.
+Knowledge management and documentation domain — featuring built-in collaborative document editing.
 
 ## Features
 

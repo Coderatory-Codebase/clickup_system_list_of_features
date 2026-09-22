@@ -1,6 +1,6 @@
 # Domain 2: Identity & Access
 
-User authentication aur access control ka core layer — koi user system mein kaise enter karta hai aur uske paas kya access hai.
+Core layer for user authentication and access control — manages how users access the system and their permission levels.
 
 ## Features
 

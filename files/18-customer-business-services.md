@@ -1,6 +1,6 @@
 # Domain 18: Customer / Business Services
 
-Customer-facing service layer — naye users ko onboard karna aur support dena.
+Customer-facing service layer — delivering onboarding, consulting, training, and ongoing support.
 
 ## Features
 

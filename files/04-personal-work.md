@@ -1,6 +1,6 @@
 # Domain 4: Personal Work
 
-Individual user ka personal workspace — uska apna kaam, reminders, aur quick-access items.
+Personal workspace for individual users — manages personal tasks, reminders, and quick-access items.
 
 ## Features
 

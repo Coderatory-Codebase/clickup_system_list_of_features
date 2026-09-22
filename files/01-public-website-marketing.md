@@ -1,6 +1,6 @@
 # Domain 1: Public Website / Marketing
 
-Ye domain product ke marketing/public-facing side ko cover karta hai — jo koi bhi website pe visit kare (signup se pehle) usko dikhta hai.
+Covers the marketing and public-facing side of the product — visible to anyone visiting the website prior to sign up.
 
 ## Features
 

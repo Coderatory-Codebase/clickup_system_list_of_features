@@ -1,6 +1,6 @@
 # Domain 11: Reporting & Analytics
 
-Data ko visualize aur analyze karne ka domain — progress aur performance dekhna.
+Visualizes and analyzes project data — delivering insights into team progress and performance.
 
 ## Features
 

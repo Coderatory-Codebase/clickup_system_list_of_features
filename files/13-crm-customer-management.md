@@ -1,6 +1,6 @@
 # Domain 13: CRM & Customer Management
 
-Sales aur customer relationship ka domain — leads se deal close hone tak track karna.
+Manages sales pipelines and customer relationships — tracking leads through to closed deals.
 
 ## Features
 

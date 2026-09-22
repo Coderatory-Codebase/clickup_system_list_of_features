@@ -1,6 +1,6 @@
 # Domain 5: Projects & Task Management
 
-Core domain — actual kaam track karne ka system: tasks banana, assign karna, status update karna.
+Core domain for tracking work — creating and assigning tasks, setting priorities, and updating statuses.
 
 ## Features
 

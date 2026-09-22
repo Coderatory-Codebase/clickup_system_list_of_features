@@ -1,6 +1,6 @@
 # Domain 17: Billing & Subscription
 
-Monetization aur subscription management ka domain — payments aur plans.
+Handles monetization, plan tiers, billing cycles, invoices, and subscription management.
 
 ## Features
 

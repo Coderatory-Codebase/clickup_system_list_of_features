@@ -1,6 +1,6 @@
 # Domain 15: Integrations & Developer Platform
 
-System ko dusre tools/apps ke saath connect karna aur developers ke liye extensibility.
+Connects the system with external tools and third-party apps, providing full developer extensibility.
 
 ## Features
 

@@ -1,6 +1,6 @@
 # Domain 3: Workspace & Organization
 
-System ka organizational structure/hierarchy — data aur teams ko kaise groups mein organize kiya jata hai.
+Defines the organizational structure and hierarchy of the system — managing how data, teams, and spaces are grouped.
 
 ## Features
 

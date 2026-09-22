@@ -1,6 +1,6 @@
 # Domain 9: Calendar, Time & Resource Management
 
-Time aur resources ko manage karna — kaam kitna time le raha hai, team ka load kitna hai.
+Manages time tracking, schedules, and team workload to optimize resource allocation.
 
 ## Features
 

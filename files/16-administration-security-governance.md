@@ -1,6 +1,6 @@
 # Domain 16: Administration, Security & Governance
 
-System ko secure aur compliant rakhne ka domain — admin control aur audit.
+Ensures platform security, compliance, enterprise governance, and administrative oversight.
 
 ## Features
 

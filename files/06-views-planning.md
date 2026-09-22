@@ -1,6 +1,6 @@
 # Domain 6: Views & Planning
 
-Same data ko alag-alag visual tareekon se dekhne ka system — jo user ke workflow ke hisaab se best ho.
+Visualizes the same data across multiple flexible views — tailored to fit any team's workflow.
 
 ## Features
 

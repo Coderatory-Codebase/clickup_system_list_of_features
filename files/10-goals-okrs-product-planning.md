@@ -1,6 +1,6 @@
 # Domain 10: Goals, OKRs & Product Planning
 
-High-level planning aur strategic tracking — Agile/Scrum teams ka planning layer.
+High-level strategic planning and tracking — supporting goals, OKRs, and Agile/Scrum roadmaps.
 
 ## Features
 

@@ -1,6 +1,6 @@
 # Domain 12: Workflow, Forms & Automation
 
-Repetitive kaam ko automate karna aur data collect karne ke liye forms banana.
+Automates repetitive workflows and streamlines data collection through customizable forms.
 
 ## Features
 

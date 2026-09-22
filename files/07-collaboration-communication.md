@@ -1,6 +1,6 @@
 # Domain 7: Collaboration & Communication
 
-Team members ke beech communication aur updates ka system.
+Centralized communication and collaboration hub for team members and real-time updates.
 
 ## Features
 
